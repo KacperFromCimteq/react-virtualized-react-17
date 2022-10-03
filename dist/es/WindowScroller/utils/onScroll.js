@@ -71,4 +71,4 @@ export function unregisterScrollListener(component, element) {
     }
   }
 }
-import { bpfrpt_proptype_WindowScroller } from "../WindowScroller.js";
+// import { bpfrpt_proptype_WindowScroller } from "../WindowScroller.js";
